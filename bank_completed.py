@@ -2,9 +2,6 @@
 # dictionary pairs with random amounts of money, and puts them
 # into a dict called "bankaccts". This project revolves
 # around working with this dict to do various things.
-from hashlib import new
-
-
 my_file = open("data/bank.txt", "r")
 content = my_file.read()
 rawaccts = content.split(",")

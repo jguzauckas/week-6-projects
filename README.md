@@ -19,3 +19,5 @@ Here is an outline of the three projects:
 
 - This contains a dictionary of over 6,000 "bank accounts". Each bank account has a key of a unique first name (taken from names.py), and a value of a randomly generated amount of money ($0.00-$1000.00).
 - The exercises include finding an account, modifying an account's value/adding accounts, adding interest to an account, checking who has a higher balance, and more.
+
+Quick test

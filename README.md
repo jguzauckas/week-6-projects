@@ -2,7 +2,7 @@
 
 This repository has a few projects for you to work on with our skills so far. As always, utilize our ap-principles-notes repository for the detailed information on the skills we've covered.
 
-Each project pulls a significant quantity of data from a txt file for you to work with in an iterable (already programmed) and asks you to perform tasks with the data.
+Each project pulls a significant quantity of data from a txt file for you to work with in an iterable (already programmed) and asks you to perform tasks with the data. This will test your skills with iterables, loops, functions, and data types!
 
 Here is an outline of the three projects:
 
